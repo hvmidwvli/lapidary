@@ -1,0 +1,13 @@
+{
+  "name": "lapidary",
+  "owner": { "name": "hvmidwvli" },
+  "metadata": { "description": "Lapidary: turns dictated requests into expert prompts." },
+  "plugins": [
+    {
+      "name": "lapidary",
+      "source": "./",
+      "description": "Turns a dictated request into an expert prompt and runs it; --copy gives the prompt only.",
+      "version": "0.1.0"
+    }
+  ]
+}

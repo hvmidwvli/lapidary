@@ -1,0 +1,7 @@
+{
+  "name": "lapidary",
+  "version": "0.1.0",
+  "description": "Turns a dictated request into an expert prompt and runs it; --copy gives the prompt only.",
+  "author": { "name": "hvmidwvli" },
+  "license": "MIT"
+}
